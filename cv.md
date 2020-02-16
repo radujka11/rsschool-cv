@@ -10,7 +10,7 @@ Adaptability,
 Creativity,
 advanced English 
 ##### 5. Code examples {IT`S HARD TO BELEIVE, BUT YES, IT IS A REAL DATA}
-<?php
+
 Echo " h2 PHP is Fun!  /h2";
 Echo "Hello world!  br";
 Echo "I'm about to learn PHP ! br";

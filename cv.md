@@ -10,10 +10,10 @@ Adaptability,
 Creativity,
 advanced English 
 ##### 5. Code examples {IT`S HARD TO BELEIVE, BUT YES, IT IS A REAL DATA}
-#################### a) Echo " h2 PHP is Fun!  /h2";
-#################### b) Echo "Hello world!  br";
-#################### c) Echo "I'm about to learn PHP ! br";
-#################### d)Echo "This ", "string ", "was ", "made ", "with multiple parameters.";
+               a) Echo " h2 PHP is Fun!  /h2";
+               b) Echo "Hello world!  br";
+               c) Echo "I'm about to learn PHP ! br";
+               d)Echo "This ", "string ", "was ", "made ", "with multiple parameters.";
 
 ##### 6. Experience
 No work experience

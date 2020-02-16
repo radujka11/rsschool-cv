@@ -11,11 +11,11 @@ Creativity,
 advanced English 
 ##### 5. Code examples {IT`S HARD TO BELEIVE, BUT YES, IT IS A REAL DATA}
 <?php
-EcHo "<h2>PHP is Fun!  </h2>";
-EcHo "Hello world!  <br>";
-EcHo "I'm about to learn PHP ! <br>";
-EcHo "This ", "string ", "was ", "made ", "with multiple parameters.";
-?>
+Echo " h2 PHP is Fun!  /h2";
+Echo "Hello world!  br";
+Echo "I'm about to learn PHP ! br";
+Echo "This ", "string ", "was ", "made ", "with multiple parameters.";
+
 ##### 6. Experience
 No work experience
 ##### 7. Education

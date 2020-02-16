@@ -5,9 +5,9 @@
   ##### 3. About      
  I am a full-time student at Lobachevsky university and I am truly interested in Web design and development. My goal is to become a specialist in this  field. I want to constantly learn and update my knowledge. I am a fast learning, hardworking and creative.
 ##### 4. Skills
-Teamwork
-Adaptability
-Creativity
+Teamwork,
+Adaptability,
+Creativity,
 advanced English 
 ##### 5. Code examples {IT`S HARD TO BELEIVE, BUT YES, IT IS A REAL DATA}
 <?php

@@ -11,9 +11,9 @@ Creativity,
 advanced English 
 ##### 5. Code examples {IT`S HARD TO BELEIVE, BUT YES, IT IS A REAL DATA}
 <?php
-echo "<h2>PHP is Fun!</h2>";
-echo "Hello world!<br>";
-echo "I'm about to learn PHP!<br>";
+echo "<h2>PHP is Fun!  </h2>";
+echo "Hello world!  <br>";
+echo "I'm about to learn PHP ! <br>";
 echo "This ", "string ", "was ", "made ", "with multiple parameters.";
 ?>
 ##### 6. Experience
